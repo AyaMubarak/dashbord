@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayagm\\source\\repos\\Landing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|c:\\users\\ayagm\\source\\repos\\landing\\landing.pl\\areas\\dashbord\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashbord\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|c:\\users\\ayagm\\source\\repos\\landing\\landing.pl\\areas\\dashbord\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashbord\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|c:\\users\\ayagm\\source\\repos\\landing\\landing.pl\\areas\\dashbord\\views\\shared\\_script.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashbord\\views\\shared\\_script.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|c:\\users\\ayagm\\source\\repos\\landing\\landing.pl\\areas\\dashbord\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A93FA1-B06D-48F2-BB20-094DE7A7D26A}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashbord\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_script.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_script.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_script.cshtml",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_script.cshtml*",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_script.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:57:11.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_head.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_head.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_head.cshtml",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_head.cshtml*",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_head.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:56:58.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashbord\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashbord\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:50:14.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\Landing\\Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashbord\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T16:41:48.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
