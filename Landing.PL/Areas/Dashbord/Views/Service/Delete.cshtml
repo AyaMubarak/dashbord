@@ -1,0 +1,23 @@
+﻿@model ServiceDetails
+
+@section Header {
+    Delete Service
+}
+
+<div class="col-md-12">
+    <div class="card card-danger">
+        <div class="card-header">
+            <h3 class="card-title">Delete Confirmation</h3>
+        </div>
+        <div class="card-body">
+            Are you sure you want to delete @Model.Name?
+        </div>
+        <div class="card-footer">
+            <form asp-controller="Service" asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn btn-danger">Delete</button>
+                <a asp-action="Index" asp-controller="Service" class="btn btn-secondary">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>

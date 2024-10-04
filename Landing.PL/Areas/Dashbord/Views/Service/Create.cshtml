@@ -1,0 +1,29 @@
+﻿@model ServiceFormVM
+@section Header {
+    Services
+}
+<div class="col-md-12">
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title"> Create</h3>
+        </div>
+  
+        <form asp-action="Create" asp-controller="Service" asp-area="Dashbord">
+            <div class="card-body">
+                <div class="form-group">
+                    <label asp-for="Name"> Name</label>
+                    <input asp-for="Name" class="form-control" id="Name" placeholder="Enter Service Name" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description"> Description</label>
+                    <input asp-for="Description" class="form-control" id="Description" placeholder="Enter Service Description" />
+                </div>
+              
+
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

@@ -9,3 +9,7 @@ C:\Users\ayagm\source\repos\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.dll
 C:\Users\ayagm\source\repos\Landing\Landing.DAL\obj\Debug\net8.0\refint\Landing.DAL.dll
 C:\Users\ayagm\source\repos\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.pdb
 C:\Users\ayagm\source\repos\Landing\Landing.DAL\obj\Debug\net8.0\ref\Landing.DAL.dll
+C:\Users\ayagm\source\repos\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.sourcelink.json
+C:\Users\ayagm\source\repos\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.csproj.AssemblyReference.cache
+C:\Users\ayagm\source\repos\Landing\Landing.DAL\bin\Debug\net8.0\Landing.DAL.runtimeconfig.json
+C:\Users\ayagm\source\repos\Landing\Landing.DAL\obj\Debug\net8.0\Landing.DAL.genruntimeconfig.cache

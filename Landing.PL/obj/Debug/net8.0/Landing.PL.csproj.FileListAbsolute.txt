@@ -265,3 +265,6 @@ C:\Users\ayagm\source\repos\Landing\Landing.PL\obj\Debug\net8.0\Landing.PL.pdb
 C:\Users\ayagm\source\repos\Landing\Landing.PL\obj\Debug\net8.0\Landing.PL.genruntimeconfig.cache
 C:\Users\ayagm\source\repos\Landing\Landing.PL\obj\Debug\net8.0\ref\Landing.PL.dll
 C:\Users\ayagm\source\repos\Landing\Landing.PL\obj\Debug\net8.0\scopedcss\Areas\Dashbord\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ayagm\source\repos\Landing\Landing.PL\obj\Debug\net8.0\Landing.PL.sourcelink.json
+C:\Users\ayagm\source\repos\Landing\Landing.PL\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ayagm\source\repos\Landing\Landing.PL\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

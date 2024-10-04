@@ -1,6 +1,9 @@
-using Landing.PL.Data;
+using Landing.DAL.Data;
+using Landing.PL.Mapping;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +16,7 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddAutoMapper(Assembly.GetAssembly(typeof(MappingProfile)));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -36,6 +39,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
 
     app.MapControllerRoute(
       name: "areas",
