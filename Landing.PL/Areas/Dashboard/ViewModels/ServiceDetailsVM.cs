@@ -7,6 +7,7 @@
         public string Description { get; set; }
         public DateTime CreatedAt{ get; set; }
         public bool ISDeleted {  get; set; }
+        public string ImageName {  get; set; }
 
     }
 }

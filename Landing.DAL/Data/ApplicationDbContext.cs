@@ -11,5 +11,9 @@ namespace Landing.DAL.Data
         {
         }
         public DbSet<Service>Services { get; set; }
+        public DbSet<Shop> Shops { get; set; }
+        public DbSet<Testimonial>Testimonials { get; set; }
+        public DbSet<Blog>Blogs { get; set; }
+        public DbSet<Team>Teams { get; set; }
     }
 }

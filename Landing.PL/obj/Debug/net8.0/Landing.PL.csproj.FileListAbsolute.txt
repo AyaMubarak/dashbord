@@ -272,3 +272,5 @@ C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.PL\obj\Debug\net8.0\La
 C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.PL\obj\Debug\net8.0\ref\Landing.PL.dll
 C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.PL\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.PL\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.PL\obj\Debug\net8.0\Landing.PL.sourcelink.json
+C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.PL\bin\Debug\net8.0\libman.json

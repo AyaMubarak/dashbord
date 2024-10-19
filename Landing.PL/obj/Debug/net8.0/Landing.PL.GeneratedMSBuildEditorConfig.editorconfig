@@ -26,16 +26,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.PL
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Blogs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEJsb2dzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Blogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEJsb2dzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Blogs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEJsb2dzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Blogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEJsb2dzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Dashbord/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXERhc2hib3JkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Services/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Services/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Services/Details.cshtml]
@@ -68,6 +80,54 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Shared/_sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Shops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Shops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Shops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Shops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Teams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Teams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Teams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Teams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Testimonials/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlc3RpbW9uaWFsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Testimonials/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlc3RpbW9uaWFsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Testimonials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlc3RpbW9uaWFsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/Testimonials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlc3RpbW9uaWFsc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ayagm/Desktop/knowledge ackedemy/Landing/Landing.PL/Areas/Dashboard/Views/_ViewImports.cshtml]

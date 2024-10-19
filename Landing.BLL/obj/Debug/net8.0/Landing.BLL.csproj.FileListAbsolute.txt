@@ -13,3 +13,4 @@ C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.BLL\obj\Debug\net8.0\L
 C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.BLL\obj\Debug\net8.0\refint\Landing.BLL.dll
 C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.pdb
 C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.BLL\obj\Debug\net8.0\ref\Landing.BLL.dll
+C:\Users\ayagm\Desktop\knowledge ackedemy\Landing\Landing.BLL\obj\Debug\net8.0\Landing.BLL.sourcelink.json

@@ -11,6 +11,7 @@
     <li>Descrption:@Html.Raw(@Model.Description)</li>
     <li>Status:@(Model.ISDeleted?"Deleted":"Active")</li>
     <li>CreatedAt:@Model.CreatedAt</li>
+    <img src="~/files/images/@Model.ImageName" with="100px;"/>
 
 </ul>
     </div>
